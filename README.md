@@ -1,7 +1,7 @@
-### Hello there 👊
+### Hello there 👋🌟
 
-- 💻 I'm a computer science student from Finland.
-- ☕ Fav language: Java
-- 🗼 Color Theme: Tokyo Night
-- 🔧 IDE: VSCodium
-- 🐧 Distro: Debian
+- 🎓 IT engineering student from Finland 🇫🇮
+- 🐍 Favorite language: Python
+- 🌙 Color Theme: Midnight Void
+- 📝 IDE: VSCodium
+- 🐧 Distro: Fedora
